@@ -25,6 +25,11 @@ A Flask-based web application for managing college events, allowing administrato
 - **Database**: SQLite (via Flask-SQLAlchemy)
 - **Frontend**: HTML, CSS (Bootstrap/Custom), Jinja2 Templates
 
+## Live Demo
+
+- Local demo URL: http://127.0.0.1:5000
+- GitHub Repository: https://github.com/ashish76435/Campus-Events-Management
+
 ## Installation
 
 1.  **Clone the repository**:
